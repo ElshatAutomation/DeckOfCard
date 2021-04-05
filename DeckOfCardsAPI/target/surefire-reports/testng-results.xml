@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Rest API Test Suite" duration-ms="6999" started-at="2021-04-05T03:06:49Z" finished-at="2021-04-05T03:06:56Z">
+    <groups>
+    </groups>
+    <test name="Rest API regression Test" duration-ms="6999" started-at="2021-04-05T03:06:49Z" finished-at="2021-04-05T03:06:56Z">
+      <class name="com.deckofcardsapi.tests.DrawCardsFromDeck">
+        <test-method status="PASS" signature="getDeckIdTest()[pri:1, instance:com.deckofcardsapi.tests.DrawCardsFromDeck@6d511b5f]" name="getDeckIdTest" duration-ms="1096" started-at="2021-04-05T03:06:55Z" finished-at="2021-04-05T03:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDeckIdTest -->
+      </class> <!-- com.deckofcardsapi.tests.DrawCardsFromDeck -->
+      <class name="com.deckofcardsapi.tests.CreateNewDeckOfCards">
+        <test-method status="PASS" signature="createNewDeckTest()[pri:0, instance:com.deckofcardsapi.tests.CreateNewDeckOfCards@72efb5c1]" name="createNewDeckTest" duration-ms="4587" started-at="2021-04-05T03:06:49Z" finished-at="2021-04-05T03:06:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewDeckTest -->
+        <test-method status="PASS" signature="getJokerTest()[pri:0, instance:com.deckofcardsapi.tests.CreateNewDeckOfCards@72efb5c1]" name="getJokerTest" duration-ms="612" started-at="2021-04-05T03:06:54Z" finished-at="2021-04-05T03:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getJokerTest -->
+        <test-method status="PASS" signature="postJokerTest()[pri:0, instance:com.deckofcardsapi.tests.CreateNewDeckOfCards@72efb5c1]" name="postJokerTest" duration-ms="516" started-at="2021-04-05T03:06:55Z" finished-at="2021-04-05T03:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJokerTest -->
+      </class> <!-- com.deckofcardsapi.tests.CreateNewDeckOfCards -->
+    </test> <!-- Rest API regression Test -->
+  </suite> <!-- Rest API Test Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+com\deckofcardsapi\listeners\ExtentReportListener.class
+com\deckofcardsapi\pojo\Joker.class
+com\deckofcardsapi\restclient\RestClient.class
+com\deckofcardsapi\listeners\AllureReportListener.class
+com\deckofcardsapi\util\TestUtil.class
